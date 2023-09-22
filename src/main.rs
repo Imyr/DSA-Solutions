@@ -1,7 +1,11 @@
 #![allow(dead_code)]
+
 fn main() {
-    let lmao = lc_0030::find_substring("barfoothefoobarman".to_string(), vec!["foo".to_string(),"bar".to_string()]);
-    println!("{:#?}", lmao);
+    // let hmm = vec![4,5,6,7,0,1,2];
+    // let lmao = lc_2707::min_extra_char("leetscode".to_string(), vec!["leet".to_string(),"code".to_string(),"leetcode".to_string()]);
+    // println!("{:#?}", lmao);
+    // let lmao = lc_2707::min_extra_char("sayhelloworld".to_string(), vec!["hello".to_string(),"world".to_string()]);
+    // println!("{:#?}", lmao);
 }
 
 mod lc_0001;
@@ -34,13 +38,25 @@ mod lc_0027;
 mod lc_0028;
 mod lc_0029;
 mod lc_0030;
-
+mod lc_0031;
+mod lc_0032;
+mod lc_0033;
+mod lc_0034;
 mod lc_0035;
+mod lc_0036;
 
 mod lc_0067;
 
+mod lc_0070;
+
 mod lc_0231;
+
+mod lc_0338;
+
+mod lc_0392;
 
 mod lc_0442;
 
 mod lc_1207;
+
+mod lc_2707;
