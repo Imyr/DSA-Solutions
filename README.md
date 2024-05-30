@@ -1,2 +1,2 @@
-# DSA in Rust
-LeetCode and CodeForces solutions in Rust.
+# DSA Solutions
+My solutions to problems on LeetCode and Codeforces.
